@@ -12,5 +12,5 @@
             "ConnectorPHP": "codebase/"
         }
     },
-    "min-stability": "dev"
+    "min-stability": "stable"
 }
