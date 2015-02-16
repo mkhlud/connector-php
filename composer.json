@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Mkhlud\\Flysystem\\ZipArchive\\": "src/"
+            "Mkhlud\\Flysystem\\ZipArchive\\": "codebase/"
         }
     },
     "config": {
