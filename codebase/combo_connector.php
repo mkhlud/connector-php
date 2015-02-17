@@ -3,7 +3,7 @@
 	@author dhtmlx.com
 	@license GPL, see license.txt
 */
-
+namespace League\Connector;
 require_once("base_connector.php");
 /*! DataItem class for Combo component
 **/

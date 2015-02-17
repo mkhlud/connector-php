@@ -3,9 +3,9 @@
 	@author dhtmlx.com
 	@license GPL, see license.txt
 */
-
+namespace League\Connector;
 	require_once("dataview_connector.php");
-	
+
 
 /*! Connector class for DataView
 **/
