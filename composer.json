@@ -16,7 +16,7 @@
             "League\\Connector\\": "codebase/"
         }
     },
-    "minimum-stability": "dev",
+    "min-stability": "dev",
     "prefer-stable": true,
     "extra": {
         "branch-alias": {
