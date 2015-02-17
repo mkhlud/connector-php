@@ -16,5 +16,5 @@
             "League\\Connector\\": "codebase/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
