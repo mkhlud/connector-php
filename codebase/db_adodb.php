@@ -1,5 +1,4 @@
 <?php
-namespace League\Connector;
 /*
 	@author dhtmlx.com
 	@license GPL, see license.txt

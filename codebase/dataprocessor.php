@@ -5,7 +5,7 @@
 */
 /*! Base DataProcessor handling
 **/
-namespace League\Connector;
+
 require_once("xss_filter.php");
 
 class DataProcessor{

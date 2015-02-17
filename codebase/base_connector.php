@@ -3,8 +3,6 @@
 	@author dhtmlx.com
 	@license GPL, see license.txt
 */
-namespace League\Connector;
-
 require_once("tools.php");
 require_once("db_common.php");
 require_once("dataprocessor.php");

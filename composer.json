@@ -1,19 +1,16 @@
 {
     "name": "mkhlud/connector-php",
     "description": "PHP extension for the DHTMLX library",
+    "homepage": "http://dhtmlx.com/docs/products/dhtmlxConnector/index.shtml",
+    "keywords": ["dhtmlx","connector","connector-php"],
+    "license": "GNU",
+    "type": "library",
     "require": {
         "php": ">=5.4.0"
     },
-    "license": "GNU",
-    "authors": [
-        {
-            "name": "Mikhail",
-            "email": "khlud@dhtmlx.com"
-        }
-    ],
     "autoload": {
         "psr-4": {
-            "League\\Connector\\": "codebase/"
+            "DHTMLX\\Connector\\": "codebase/"
         }
     },
     "min-stability": "dev",
